@@ -1,0 +1,57 @@
+.jumbotron {
+  background-image: url("ufo.jpg");
+  background-size: 100% 100%;
+  width: 100%;
+  height: 100%;
+  padding: 25px;
+  text-align: center;
+}
+
+h1 {
+  color: darkgoldenrod;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+h2 {
+  color: whitesmoke;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.form-control {
+  display: inline-block;
+  color: lightgoldenrodyellow;
+  font-weight: bold;
+  background-color: darkolivegreen;
+}
+
+.form-control:hover {
+  color: black;
+  background-color: lightgoldenrodyellow;
+}
+
+#search {
+  background-color: lightgoldenrodyellow;
+  color: darkolivegreen;
+}
+
+#reset {
+    background-color: lightgoldenrodyellow;
+    color: darkolivegreen;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
