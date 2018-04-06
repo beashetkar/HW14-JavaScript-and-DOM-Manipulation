@@ -21,24 +21,24 @@ h2 {
 
 .form-control {
   display: inline-block;
-  color: lightgoldenrodyellow;
+  color: black;
   font-weight: bold;
-  background-color: darkolivegreen;
+  background-color: white;
 }
 
 .form-control:hover {
-  color: black;
-  background-color: lightgoldenrodyellow;
+  color: whitesmoke;
+  background-color: orangered;
 }
 
 #search {
-  background-color: lightgoldenrodyellow;
-  color: darkolivegreen;
+  background-color: darkolivegreen;
+  color: white;
 }
 
 #reset {
-    background-color: lightgoldenrodyellow;
-    color: darkolivegreen;
+    background-color: darkolivegreen;
+    color: white;
     display: inline-block;
     padding: 6px 12px;
     margin-bottom: 0;
